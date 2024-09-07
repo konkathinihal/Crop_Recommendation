@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Crop Recommendation System
 The Crop Recommendation System is a machine learning application designed to assist farmers in selecting suitable crops based on agricultural parameters. By leveraging historical data and predictive models, the system aims to optimize crop yield and enhance agricultural decision-making.
 
@@ -56,3 +57,6 @@ crop-recommendation/
 ```
 # Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue to discuss them before submitting a pull request.
+=======
+# Crop_Recommendation
+>>>>>>> de6c5bbf609130e0c86cd7eb7d8116e0bb4072e5
